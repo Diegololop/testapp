@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "salon-veronica"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.diegololop.whatsappmobileapp",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.diegololop.whatsappmobileapp"
+    }
+  }
+}
